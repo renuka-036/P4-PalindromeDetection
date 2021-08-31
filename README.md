@@ -5,12 +5,12 @@
 
 Input:
 
-```python
+```
 Enter a number : 12321
 ```
 
 Output:
 
-```python
+```
 True. The Entered Number is a palindrome Number
 ```
