@@ -5,12 +5,12 @@
 
 Input:
 
-```C#
+```
 Enter a number : 12321
 ```
 
 Output:
 
-```C#
+```
 True. The Entered Number is a palindrome Number
 ```
